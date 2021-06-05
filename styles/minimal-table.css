@@ -19,7 +19,7 @@ padding-left: 11em;
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
 ul.navbar li {
-  background: white;
+  background: lightgray;
   margin: 0.5em 0;
   padding: 0.3em;
   border-right: 1em solid black }
