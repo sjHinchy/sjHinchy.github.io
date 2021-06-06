@@ -18,8 +18,7 @@
 		ul.navbar li {
     background: lightgray;
     margin: 0.5em 0;
-    padding: 0.3em;
-    border-right: 1em solid black }
+    padding: 0.3em; }
   ul.navbar a {
     text-decoration: none }
   a:link {
